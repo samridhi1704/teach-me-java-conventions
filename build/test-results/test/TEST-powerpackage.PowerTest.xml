@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="powerpackage.PowerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-05-05T15:21:34" hostname="LAPTOP-VSIS53I2" time="0.014">
+  <properties/>
+  <testcase name="twoRaisedToPowerOneIsTwo" classname="powerpackage.PowerTest" time="0.01"/>
+  <testcase name="twoRaisedToPowerTwoIsFour" classname="powerpackage.PowerTest" time="0.0"/>
+  <testcase name="oneRaisedToPowerOneIsOne" classname="powerpackage.PowerTest" time="0.0"/>
+  <testcase name="threeRaisedToPowerTwoIsNine" classname="powerpackage.PowerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
